@@ -1,0 +1,12 @@
+{
+  "name": "angular-common",
+  "_cacheHeaders": {
+    "ETag": "\"9be025fac0cf8dfd9f64bf5e9c289b5c1ae918f3\"",
+    "Content-Type": "application/zip",
+    "Content-Disposition": "attachment; filename=angular-common-1.0-beta.8.zip"
+  },
+  "_release": "e-tag:9be025fac",
+  "_source": "https://github.com/alizarion/angular-common/archive/v1.0-beta.8.zip",
+  "_target": "*",
+  "_originalSource": "https://github.com/alizarion/angular-common/archive/v1.0-beta.8.zip"
+}

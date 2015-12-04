@@ -1,0 +1,18 @@
+{
+  "GLOBAL" : {
+    "MENU_ITEM_INVOICES" : "Liste des factures",
+    "MENU_ITEM_PAYMENTS" : "Liste des réglements",
+    "MENU_ITEM_UPLOAD" : "Envoi des factures",
+    "ENGLISH_MENUITEM" : "Englais",
+    "FRENCH_MENUITEM" : "Français",
+    "GERMAN_MENUITEM" : "Allemand",
+    "LOGOUT_MENUITEM" : "Déconnexion",
+    "LOGIN" : {
+      "USER_LABEL" : "Nom d'utilisateur",
+      "PASSWORD_LABEL" : "Mot de passe",
+      "SUBMIT_BUTTON_LABEL" : "Connexion"
+    },
+    "ARTIST_LABEL" : "Artiste",
+    "TITLE_LABEL" : "Titre"
+  }
+}
